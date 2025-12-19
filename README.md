@@ -26,8 +26,8 @@ Sistema web inspirado em plataformas reais de pedidos online.
 🔹 **Sistema de Agendamento para Barbearia**  
 Aplicação full stack com frontend e backend separados.
 
-🔹 **E-commerce Platform**  
-Carrinho de compras, painel administrativo e integração de pagamento.
+🔹 **Restaurant Reservas**  
+Pagina sobre o restaurant, painel administrativo e integração de reservas em tempo real.
 
 ---
 
